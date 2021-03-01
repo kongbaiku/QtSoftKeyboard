@@ -30,4 +30,4 @@ frmInput::Instance()->Init("control", "black", 10);
 
 ![3.PNG](https://github.com/kongbaiku/QtSoftKeyboard/blob/main/README/3.png)
 
-![2.PNG](https://github.com/kongbaiku/QtSoftKeyboard/blob/main/README/2.png))
+![2.PNG](https://github.com/kongbaiku/QtSoftKeyboard/blob/main/README/2.png)
